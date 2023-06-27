@@ -14,7 +14,6 @@ body {
 .main-content {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   background-color: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 60px 50px;
